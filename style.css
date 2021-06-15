@@ -1,0 +1,77 @@
+.h1 {
+  background-color:#fbca19;
+}
+
+
+.krishp{
+    background:#fbff00;
+    display:flex;
+    justify-content:left;
+    font-style: oblique;
+}
+
+.grid{
+display:flex;
+flex-wrap:wrap;
+justify-content:space-between;
+background-color: #fb4455;
+}
+
+.icons{
+display: flex;
+flex-wrap:wrap-reverse;
+justify-content:space-between;
+background-color: #bcdef1;
+}
+
+.game1{
+font-style:oblique;
+background-color:#1afe34;
+text-align:center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.game2{
+font-style:oblique;
+background-color:#cafe12;
+text-align:center;
+font-family: cursive;
+}
+
+.game3{
+font-style:oblique;
+background-color:#dc2132;
+text-align:center;
+font-family: monospace;
+}
+
+.game4{
+font-style:oblique;
+background: #c2c2c3;
+text-align:center;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.game5{
+font-style:oblique;
+background-color:#deddf5;
+text-align:center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.game6{
+font-style:oblique;
+background-color:#999999;
+text-align:center;
+font-family: sans-serif;
+}
+
+.titles{
+font-size:20px;
+font-style: oblique;
+width: 1000px;
+width:1000vh;
+height:25mm;
+font-family: fantasy;
+background-color: #ef891a;
+}
